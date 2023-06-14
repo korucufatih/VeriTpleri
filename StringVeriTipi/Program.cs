@@ -13,10 +13,10 @@ namespace StringVeriTipi
         {
             string isim = "Sevda";
             string soyisim = "Korucu";
-            string sevgi = "sevdamı çok seviyorum";
+            string merhaba = "merhaba nasılsın";
             Console.WriteLine(isim);
             Console.WriteLine(soyisim);
-            Console.WriteLine(sevgi);
+            Console.WriteLine(merhaba);
             Console.ReadLine();
         }
     }
