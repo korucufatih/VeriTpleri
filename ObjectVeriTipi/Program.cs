@@ -11,7 +11,7 @@ namespace ObjectVeriTipi
         static void Main(string[] args)
         {
             object sayı = 5;
-            object isim = "sevda";
+            object isim = "sevdam";
             object kontrol = true;
             Console.WriteLine(sayı);
             Console.WriteLine(isim);
